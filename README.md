@@ -121,7 +121,7 @@ Die Rolle "Mitwirkender an Storage-Blobdaten" hängt am Dienstprinzipal mit dem 
 
 Die hochgeladenen Welt-Archive mit Größe und Zeitstempel.
 
-![Upload-Log](docs/bilder/upload-log.png)
+![iamge alt](https://github.com/hsiebnzr/offsite-backup-oracle-to-azure/blob/b3645eec2592a1e39e90ad63dac2497b4226e0a3/b1f2b55c-0112-440b-afdd-4c3862aba820.png)
 
 Auszug aus `azure-upload.log`: die drei Fehlnächte und der automatische Lauf danach.
 
