@@ -113,7 +113,7 @@ Zugangsdaten und Kennnummern auf den Bildern sind geschwärzt.
 
 Die Rolle "Mitwirkender an Storage-Blobdaten" hängt am Dienstprinzipal mit dem Bereich "Diese Ressource", also am Container.
 
-![Anmeldung](docs/bilder/anmeldung.png)
+![image alt](https://github.com/hsiebnzr/offsite-backup-oracle-to-azure/blob/6cb923bace7f3f7683452544b0f7869b9796270e/94491b41-e4a5-4905-bf8a-20969ce88db1.png)
 
 `"type": "servicePrincipal"` zeigt, dass sich der Server nicht mit einem Benutzerkonto anmeldet.
 
