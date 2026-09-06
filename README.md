@@ -109,7 +109,7 @@ Für ein privates Backup ist der Ort innerhalb der EU egal, produktiv wäre die 
 
 Zugangsdaten und Kennnummern auf den Bildern sind geschwärzt.
 
-![Rollenzuweisung](docs/bilder/rollenzuweisung.png)
+![image alt](https://github.com/hsiebnzr/offsite-backup-oracle-to-azure/blob/6770eafe35fea35bb3e8c4be2d09ba53aa39c653/2749d183-3f57-47a6-9a16-bc47c50d6be5.png)
 
 Die Rolle "Mitwirkender an Storage-Blobdaten" hängt am Dienstprinzipal mit dem Bereich "Diese Ressource", also am Container.
 
