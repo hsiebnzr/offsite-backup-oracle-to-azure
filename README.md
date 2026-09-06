@@ -125,7 +125,7 @@ Die hochgeladenen Welt-Archive mit Größe und Zeitstempel.
 
 Auszug aus `azure-upload.log`: die drei Fehlnächte und der automatische Lauf danach.
 
-![Lifecycle](docs/bilder/lifecycle-regel.png)
+![iamge alt](https://github.com/hsiebnzr/offsite-backup-oracle-to-azure/blob/113d74a9a88cc5966ee060eeca7db765d98ecdaf/3d50a16b-3789-4d15-af14-57a322b3199c.png)
 
 Löschen nach 15 Tagen, Präfix auf den Container begrenzt.
 
