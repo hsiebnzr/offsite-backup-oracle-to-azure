@@ -117,7 +117,7 @@ Die Rolle "Mitwirkender an Storage-Blobdaten" hängt am Dienstprinzipal mit dem 
 
 `"type": "servicePrincipal"` zeigt, dass sich der Server nicht mit einem Benutzerkonto anmeldet.
 
-![Container](docs/bilder/container-inhalt.png)
+![iamge alt](https://github.com/hsiebnzr/offsite-backup-oracle-to-azure/blob/b1121228fb7d4a9bdb4c475dbb6ee94019d1e242/48ceeb5c-519d-447f-89e7-10b3ea29c1ec.png)
 
 Die hochgeladenen Welt-Archive mit Größe und Zeitstempel.
 
