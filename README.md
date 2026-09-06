@@ -129,7 +129,7 @@ Auszug aus `azure-upload.log`: die drei Fehlnächte und der automatische Lauf da
 
 Löschen nach 15 Tagen, Präfix auf den Container begrenzt.
 
-![Restore](docs/bilder/restore-test.png)
+![iamge alt](https://github.com/hsiebnzr/offsite-backup-oracle-to-azure/blob/283db23dbbfac931016aefc54c8299d35fc1b7b0/e73cbc72-06cc-47ef-8745-da5c596b6f79.png)
 
 `tar -tzf` auf dem aus Azure geholten Archiv. Der Weg zurück funktioniert.
 
