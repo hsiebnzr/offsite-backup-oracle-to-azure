@@ -20,7 +20,7 @@ Jedes Archiv aus der Nacht geht zusätzlich nach Azure Blob Storage. Anderer Anb
 |---|---|---|
 | 1 | Lokal auf der Oracle-Instanz | 7 Tage |
 | 2 | Azure Blob Storage | 15 Tage, per Lifecycle-Regel |
-| 3 | Kopien auf meinem PC | wenn ich dran denke |
+| 3 | Kopien auf meinem PC | nach Bedarf |
 
 Ebene 1 ist für den normalen Fall, kaputtes Update oder gelöschte Basis. Ebene 2 ist für den Fall aus dem August. Ebene 3 falls beide Konten gleichzeitig weg sind.
 
