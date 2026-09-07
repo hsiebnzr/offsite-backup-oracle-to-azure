@@ -2,7 +2,7 @@
 
 Am 21.08.2026 hat Oracle mein Konto gesperrt. Ohne Vorwarnung. Server weg, Web-Konsole weg, und die Backups gleich mit, weil die auf derselben Instanz lagen.
 
-Sechs Tage lang konnte ich nichts machen außer warten. Genau in der Zeit ist mir klar geworden, dass mein Backup keins war.
+Sechs Tage lang konnte ich nichts machen außer warten. In der Zeit habe ich gemerkt, dass mein Backup nichts wert ist, wenn es hinter derselben Kontosperre liegt wie der Server.
 
 Privates Projekt, acht Leute spielen drauf. Klein, aber einmal richtig schiefgegangen, und darum geht es hier.
 
