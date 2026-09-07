@@ -1,0 +1,21 @@
+# Zugangsdaten, niemals committen
+.azure-backup.env
+*.env
+!.env.example
+.azure/
+*.ppk
+*.pem
+id_rsa*
+
+# Backups und Logs
+*.tar.gz
+*.log
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
+
+# Ungeschwärzte Screenshots, niemals committen
+*_ROH.png
+screenshots-roh/
+../screenshots-roh/

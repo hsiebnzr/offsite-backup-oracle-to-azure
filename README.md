@@ -109,27 +109,27 @@ Für ein privates Backup ist der Ort innerhalb der EU egal, produktiv wäre die 
 
 Zugangsdaten und Kennnummern auf den Bildern sind geschwärzt.
 
-![image alt](https://github.com/hsiebnzr/offsite-backup-oracle-to-azure/blob/6770eafe35fea35bb3e8c4be2d09ba53aa39c653/2749d183-3f57-47a6-9a16-bc47c50d6be5.png)
+![Rollenzuweisung](docs/bilder/rollenzuweisung.png)
 
 Die Rolle "Mitwirkender an Storage-Blobdaten" hängt am Dienstprinzipal mit dem Bereich "Diese Ressource", also am Container.
 
-![image alt](https://github.com/hsiebnzr/offsite-backup-oracle-to-azure/blob/6cb923bace7f3f7683452544b0f7869b9796270e/94491b41-e4a5-4905-bf8a-20969ce88db1.png)
+![Anmeldung](docs/bilder/anmeldung.png)
 
 `"type": "servicePrincipal"` zeigt, dass sich der Server nicht mit einem Benutzerkonto anmeldet.
 
-![iamge alt](https://github.com/hsiebnzr/offsite-backup-oracle-to-azure/blob/b1121228fb7d4a9bdb4c475dbb6ee94019d1e242/48ceeb5c-519d-447f-89e7-10b3ea29c1ec.png)
+![Container](docs/bilder/container-inhalt.png)
 
 Die hochgeladenen Welt-Archive mit Größe und Zeitstempel.
 
-![iamge alt](https://github.com/hsiebnzr/offsite-backup-oracle-to-azure/blob/b3645eec2592a1e39e90ad63dac2497b4226e0a3/b1f2b55c-0112-440b-afdd-4c3862aba820.png)
+![Upload-Log](docs/bilder/upload-log.png)
 
 Auszug aus `azure-upload.log`: die drei Fehlnächte und der automatische Lauf danach.
 
-![iamge alt](https://github.com/hsiebnzr/offsite-backup-oracle-to-azure/blob/113d74a9a88cc5966ee060eeca7db765d98ecdaf/3d50a16b-3789-4d15-af14-57a322b3199c.png)
+![Lifecycle](docs/bilder/lifecycle-regel.png)
 
 Löschen nach 15 Tagen, Präfix auf den Container begrenzt.
 
-![iamge alt](https://github.com/hsiebnzr/offsite-backup-oracle-to-azure/blob/283db23dbbfac931016aefc54c8299d35fc1b7b0/e73cbc72-06cc-47ef-8745-da5c596b6f79.png)
+![Restore](docs/bilder/restore-test.png)
 
 `tar -tzf` auf dem aus Azure geholten Archiv. Der Weg zurück funktioniert.
 
